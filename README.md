@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/YashBhuse21/YashBhuse21/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Yash Bhuse</h1>
-<h3 align="center">A dedicated 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 with a solid foundation in 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 and business intelligence</h3>
+<h3 align="center">A dedicated 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐭👨‍💻 with a solid foundation in 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬📊 and business intelligence</h3>
 <img align="right" alt="Coding" width="400" src="https://webtool.co/wp-content/uploads/2021/12/87986-data-analysis.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashbhuse21&label=Profile%20views&color=0e75b6&style=flat" alt="yashbhuse21" /> </p>
