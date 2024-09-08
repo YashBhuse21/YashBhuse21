@@ -1,3 +1,4 @@
+![logo](https://github.com/YashBhuse21/YashBhuse21/blob/main/Banner.jpg)
 <h1 align="center">Hi 👋, I'm Yash Bhuse</h1>
 <h3 align="center">I am 𝐘𝐚𝐬𝐡 𝐁𝐡𝐮𝐬𝐞, a dedicated 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐭 with a solid foundation in 𝐝𝐚𝐭𝐚 𝐚𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 and business intelligence</h3>
 
